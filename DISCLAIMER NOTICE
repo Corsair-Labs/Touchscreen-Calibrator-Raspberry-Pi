@@ -1,0 +1,11 @@
+Copyright (c) 2026
+
+This project is an experimental utility developed for internal testing, evaluation, and educational purposes. Its intended and tested use is to calibrate a CORSAIR XENEON EDGE display connected to a Raspberry Pi. Other touchscreen hardware has not been tested. This utility is not an official Corsair product and is not endorsed by or supported by Corsair.
+
+This software is distributed under the MIT License included in the LICENSE file. The MIT License permits both commercial and non-commercial use, including use, copying, modification, distribution, sublicensing, and sale, subject to its requirement that the copyright and permission notices be included in copies or substantial portions of the Software.
+
+This notice supplements the LICENSE file but does not replace, modify, or restrict the permissions granted by the MIT License. If this notice and the LICENSE file are interpreted inconsistently, the LICENSE file controls the copyright license for the Software.
+
+The MIT License applies to the Software, not to trademarks, product names, logos, or branding. CORSAIR and XENEON EDGE are referenced only to identify the hardware for which the utility is intended and was tested. Nothing in this project grants permission to use CORSAIR trademarks in a way that suggests sponsorship, endorsement, or official product status. Modified or redistributed versions should not misrepresent their origin or imply official CORSAIR support.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-APP_SCRIPT="raspi_touchscreen_calibrator_15.py"
+APP_SCRIPT="touchscreen_calibrator_raspberry_pi.py"
 VENV_DIR=".venv"
 SYSTEM_PACKAGES=(
   python3
