@@ -66,11 +66,9 @@ local `.venv` by the launcher:
 
 ## Quick Start
 
-Clone the repository and run the launcher as the desktop user:
+From the project directory, run the launcher as the desktop user:
 
 ```bash
-git clone https://github.com/jlcorsair/Raspi_Touchscreen_Calibrator_15.git
-cd Raspi_Touchscreen_Calibrator_15
 chmod +x run-all.sh
 ./run-all.sh
 ```
@@ -188,7 +186,7 @@ system reboots. The app attempts to reload Labwc after updating its mapping.
 ## Main Components
 
 ```text
-Raspi_Touchscreen_Calibrator_15/
+project-directory/
   touchscreen_calibrator_raspberry_pi.py  Calibration UI, matrix solver, and persistence.
   run-all.sh                          Raspberry Pi setup and launcher script.
   requirements.txt                   Pinned Python dependencies.

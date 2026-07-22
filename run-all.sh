@@ -79,7 +79,7 @@ need_command() {
 }
 
 echo
-echo "Touchscreen Calibrator 15 setup"
+echo "Touchscreen Calibrator setup"
 echo "Project: $SCRIPT_DIR"
 echo
 
